@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 
+// eslint-disable-next-line
 export default ChildComponent => {
     class ComposedComponent extends Component {
         componentDidMount() {

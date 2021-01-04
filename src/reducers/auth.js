@@ -7,6 +7,7 @@ const INITIAL_STATE = {
     errorMessage: ''
 };
 
+// eslint-disable-next-line
 export default function(state = INITIAL_STATE, action) {
     switch (action.type) {
         case AUTH_USER:
