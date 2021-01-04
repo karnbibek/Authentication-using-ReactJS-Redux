@@ -1,3 +1,5 @@
+Includes just the frontend part and frontend validation logic using Redux-form
+
 Deployed in Netlify:
 Link: https://musing-boyd-ccb72d.netlify.app/
 
